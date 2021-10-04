@@ -13,7 +13,7 @@ Afterwards, I created the labels for the user interface app.
 
 ![Screen Shot 2021-10-04 at 11 28 52 AM](https://user-images.githubusercontent.com/89553126/135888935-35136cab-b66a-4037-bcff-b5d839185947.png)
 
-I then defined the variables I will use later for the application.
+Then defined the variables I will use later for the application.
 
 ![Screen Shot 2021-10-04 at 11 29 58 AM](https://user-images.githubusercontent.com/89553126/135889109-abab6d00-5613-4751-8a15-ba335b922d64.png)
 
