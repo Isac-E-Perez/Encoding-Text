@@ -25,7 +25,7 @@ Then I created the function to decode with the arguments - key and message.
 
 ![Screen Shot 2021-10-04 at 11 34 25 AM](https://user-images.githubusercontent.com/89553126/135889627-760d43cf-4a41-4f7a-8c02-ed30ba7ea7b4.png)
 
-I made the function to set mode, which would be either encode or decode.
+I made the function to set modes, which would be either encode or decode.
 
 ![Screen Shot 2021-10-04 at 11 38 19 AM](https://user-images.githubusercontent.com/89553126/135890159-ae15d7a3-3d39-4b80-ac7b-c4ffd2006725.png)
 
