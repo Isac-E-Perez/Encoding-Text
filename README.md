@@ -49,6 +49,8 @@ Finally, I closed the mainloop which is the last command given to compile all th
 
 <img width="494" alt="Screen Shot 2021-10-04 at 11 49 21 AM" src="https://user-images.githubusercontent.com/89553126/135891757-7c8a688c-a32a-46f1-a5e4-e0184309c522.png">
 
+**With string inputs**
+
 <img width="494" alt="Screen Shot 2021-10-04 at 11 49 57 AM" src="https://user-images.githubusercontent.com/89553126/135891758-01563247-ff32-414e-8951-308af06243d2.png">
 
 
