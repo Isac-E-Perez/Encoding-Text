@@ -21,7 +21,7 @@ Subsequently, I created the function to encode. The encode function have arguent
 
 ![Screen Shot 2021-10-04 at 11 33 02 AM](https://user-images.githubusercontent.com/89553126/135889477-278bf18c-a766-4303-82ff-843ea6bda388.png)
 
-Then I created the funciton to decode with the arguments - key and message.
+Then I created the function to decode with the arguments - key and message.
 
 ![Screen Shot 2021-10-04 at 11 34 25 AM](https://user-images.githubusercontent.com/89553126/135889627-760d43cf-4a41-4f7a-8c02-ed30ba7ea7b4.png)
 
